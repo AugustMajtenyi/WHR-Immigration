@@ -4,8 +4,8 @@ This code combines Immigration Data with World Happiness Reports from 2015 to 20
 ______________________________________________________________________________
 
 Data downloaded from Kaggle:
-https://www.kaggle.com/datasets/unsdsn/world-happiness
-https://www.kaggle.com/datasets/londeen/world-happiness-report-2020
+https://www.kaggle.com/datasets/unsdsn/world-happiness; 
+https://www.kaggle.com/datasets/londeen/world-happiness-report-2020; 
 https://www.kaggle.com/datasets/patrasaurabh/global-asylum-data-2000-present
 
 ______________________________________________________________________________
